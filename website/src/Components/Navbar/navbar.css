@@ -1,0 +1,9 @@
+.navComponent{
+    background-color: rgb(8, 8, 8);
+    text-align: center;
+    justify-content: center;
+}
+.navbar-brand{
+    color: white !important;
+}
+
